@@ -7,8 +7,9 @@ Sou apaixonado por **Infraestrutura**, **Redes**, **DevOps** e **Segurança**. B
 
 ### Principais Habilidades:
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Networking](https://img.shields.io/badge/-Networking-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)&nbsp;
+![Meraki](https://img.shields.io/badge/-Meraki-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)&nbsp;
+![pfSense](https://img.shields.io/badge/-pfSense-0D1117?style=for-the-badge&logo=fortinet&labelColor=0D1117)&nbsp;
 
 
 ### Outros Conhecimentos:
@@ -17,9 +18,14 @@ Sou apaixonado por **Infraestrutura**, **Redes**, **DevOps** e **Segurança**. B
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+### Ferramentas & Simuladores de Rede:
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)&nbsp;
+![EVE-NG](https://img.shields.io/badge/-EVE--NG-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![GNS3](https://img.shields.io/badge/-GNS3-0D1117?style=for-the-badge&logo=gns3&logoColor=blue&labelColor=0D1117)&nbsp;
+
 
 ### Estudando no Momento:
-![Azure-AZ900](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0D1117)&nbsp;
 
 
 
