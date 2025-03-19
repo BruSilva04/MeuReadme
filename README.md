@@ -24,8 +24,13 @@ Sou apaixonado por **Infraestrutura**, **Redes**, **DevOps** e **Segurança**. B
 ![GNS3](https://img.shields.io/badge/-GNS3-0D1117?style=for-the-badge&logo=gns3&logoColor=blue&labelColor=0D1117)&nbsp;
 
 
-### Estudando no Momento:
-![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0D1117)&nbsp;
+### Estudando no Momento: Microsoft Azure - AZ-900:
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
+![Azure Virtual Machines](https://img.shields.io/badge/-Azure%20VMs-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
+![Azure Storage](https://img.shields.io/badge/-Azure%20Storage-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
+![Azure Active Directory](https://img.shields.io/badge/-Azure%20AD-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
+![Azure Networking](https://img.shields.io/badge/-Azure%20Networking-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
+![Azure Security Center](https://img.shields.io/badge/-Azure%20Security%20Center-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
 
 
 
@@ -36,5 +41,12 @@ Estou focado em aprender e me aprofundar nas seguintes tecnologias, que consider
 - ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=terraform&labelColor=0D1117)&nbsp;
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
 - ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+- ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![EC2](https://img.shields.io/badge/-EC2-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![S3](https://img.shields.io/badge/-S3-0D1117?style=for-the-badge&logo=amazons3&labelColor=0D1117)&nbsp;
+![RDS](https://img.shields.io/badge/-RDS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
+![Lambda](https://img.shields.io/badge/-Lambda-0D1117?style=for-the-badge&logo=awslambda&labelColor=0D1117)&nbsp;
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
